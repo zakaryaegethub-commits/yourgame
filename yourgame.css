@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
     text-align: center;
     background: #ffffff;
-    background-image: url('backgryourgame.jpg');
+    backfround-color: red;
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
